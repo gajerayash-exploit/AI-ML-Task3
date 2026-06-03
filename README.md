@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI & ML Internship - Task 3
 
 ## Task
@@ -32,3 +33,7 @@ Housing Price Dataset
 - task3.ipynb
 - housing.csv
 - README.md
+=======
+# AI-ML-Task3
+AI &amp; ML Internship Task 3: Implementing simple and multiple linear regression using Python, Pandas, Matplotlib, and Scikit-learn.
+>>>>>>> b1a94bd990f0e922025295f9e1697f6cabd89bb7
